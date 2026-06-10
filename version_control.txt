@@ -1,1 +1,0 @@
-version_25: is a success
